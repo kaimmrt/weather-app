@@ -1,3 +1,9 @@
+# Weather App with Context Api
+
+## I got the data from openweathermap. I used Context Api
+
+![ss](public/ss.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
